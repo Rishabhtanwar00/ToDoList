@@ -166,7 +166,7 @@ input#menu:checked ~ #menu-content {
     background-position: center;
     height: 50px;
     display: block;
-    background-image: url("../images/hamburger.png");
+    background-image: url("hamburger.png");
     background-size: contain;
     background-repeat: no-repeat; }
 
@@ -207,7 +207,7 @@ input#menu:checked ~ #menu-content {
       width: 40px;
       height: 40px;
       margin-right: 100px;
-      background-image: url("../images/close.png");
+      background-image: url("close.png");
       background-size: contain;
       background-repeat: no-repeat; }
   #menu-content #theme {
